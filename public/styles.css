@@ -1,0 +1,31 @@
+.logo-img {
+  width: 48px;
+  height: 48px;
+  
+  border-radius: 50%;
+}
+
+.banner {
+  background: url("https://images.unsplash.com/photo-1611711605692-acb25d5d8399?ixid=MXwyNTE2NnwwfDF8c2VhcmNofDExfHxqaXRzdXxlbnwwfHx8&ixlib=rb-1.2.1&q=85&w=2160") center/cover no-repeat;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+}
+.card-img-top {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;   
+}
+
+.fundo-newsletter{
+    background-repeat: no-repeat;
+      background-position: right center; /* colado à direita, centralizado verticalmente */
+      background-size: cover;            /* cobre sem distorcer, corta o excesso */
+
+      height: 400px;
+      width: 50%;
+    background-image: url('https://i.postimg.cc/vB7n5z3M/Imagem-do-Whats-App-de-2025-08-29-s-17-43-58-0774b8f7.jpg');
+}
