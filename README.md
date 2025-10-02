@@ -19,8 +19,8 @@ Leia o enunciado completo no Canvas.
 - Breve descrição sobre seu projeto:
 
 ## Print da Home-Page
+![alt text](<public/img/Captura de tela 2025-10-01 235313.png>)
 
-![alt text](image.png)<<  COLOQUE A IMAGEM AQUI >>
 
 ## Print da página de detalhes do item
 
