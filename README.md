@@ -15,8 +15,10 @@ Leia o enunciado completo no Canvas.
 
 - Nome: Bruno Nasciemnto Cunha 
 - Matricula: 905809
-- Proposta de projeto escolhida: 
-- Breve descrição sobre seu projeto:
+- Proposta de projeto escolhida:  Aproveitar a oportunidade do conhecimento adiquirido para contribuir com o centro de treinamento que eu sou pertecente.
+- Breve descrição sobre seu projeto:  Página de Jiu-Jitsu Este projeto é a implementação de um wireframe de uma página simples de apresentação de um Centro de Treinamento de Jiu-Jitsu.
+Ele foi desenvolvido a partir da simplicidade do projeto de portfólio, mantendo o HTML e CSS limpos e organizados,
+e agora adcionado fluides e capacidades dinamicas com a aplicação de javaScript atraves do app.js, manipulando o DOM.
 
 ## Print da Home-Page
 ![alt text](<public/img/Captura de tela 2025-10-01 235313.png>)

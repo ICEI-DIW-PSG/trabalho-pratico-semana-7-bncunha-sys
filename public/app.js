@@ -2,7 +2,7 @@ const dados = [
   {
     "id": 1,
     "titulo": "RRT Mulheres em Treinamento",
-    "descricao": "Novo plano visa melhorar o condiçionamento fisíco e capacitar as mulheres para que sa´bão o mínimo para poder se defender, uma vez que vivemos em um mundo em que os valores umanos estão se perdendo.",
+    "descricao": "Novo plano visa melhorar o condicionamento fisíco e capacitar as mulheres para que saibao o mínimo para poder se defender, uma vez que vivemos em um mundo em que os valores humanos estão se perdendo.",
     "conteudo": "O  CT RRT vem com a criação deste projeto em prol de uma sociedade capacitada e conciente de sua força e capacidade, entendendo que a arte suave pode salvar vidas.",
     "categoria": "Esporte",
     "autor": "Robson Ribeiro",
