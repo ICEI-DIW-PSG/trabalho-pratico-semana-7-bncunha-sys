@@ -11,7 +11,7 @@ const dados = [
   },
   {
     "id": 2,
-    "titulo": "Tecnologia 6G Está em Desenvolvimento",
+    "titulo": "Jiu Jitsu Muito Mais que um Esporte",
     "descricao": "Capacidades trabalhadas nas aulas de Jiu Jitsu.",
     "conteudo": "Onde Voce aprende muito mais que só um esporte mas tambem encontra uma familia e acaba entendendo que a luta e muito mais do que um esporte, e uma escola de disciplina, respeito, carater, onde são formados seres humanos capazes de conviver em uma sociedade dignos de respeito e reconhecimento.",
     "categoria": "Esporte",
